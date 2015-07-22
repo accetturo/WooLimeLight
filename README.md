@@ -10,7 +10,7 @@ $ git clone https://github.com/dnlnwk/WooLimeLight.git
 
 Go into this project, open WooLimeLight.php and set the following values with your LimeLight informations
 
-Your LimeLight Domain eg. www.yourlldomain.com
+Your LimeLight Domain
 ``` php
 private $ll_username = 'www.yourlldomain.com';
 ```
