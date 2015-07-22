@@ -35,7 +35,7 @@ Affiliate ID (optional)
 private $ll_AFID = 0;
 ```
 
-Insert the shortcode into you order site
+Insert the shortcode into your order site
 ``` html
 [woocommerce_limelight]
 ```
