@@ -39,3 +39,5 @@ Insert the shortcode into you order site
 ``` html
 [woocommerce_limelight]
 ```
+
+Last step is to set a product ID. Go to your WooCommerce products in your wordpress backend and create for every product a new custom field they called "productId" and set the LimeLight product ID as the value.
